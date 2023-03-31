@@ -14,7 +14,7 @@ public class LoginStepDefinitions {
     HomePage homePage = new HomePage();
 
 
-    @Given("User is on the  login page")
+    @Given("User is on the login page")
     public void user_is_on_the_login_page() {
         Driver.getDriver().get(ConfigurationReader.getProperty("url"));
 
