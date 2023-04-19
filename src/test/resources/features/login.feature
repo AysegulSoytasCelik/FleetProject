@@ -1,4 +1,4 @@
-@PER10-382 #execution number
+@PER10-382 @smoke #execution number
 Feature:  Login functionality with valid or invalid credentials
   User Story :
   As a user, I should be able to log in.
